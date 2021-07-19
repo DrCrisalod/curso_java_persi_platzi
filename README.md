@@ -1,4 +1,4 @@
-# del Curso de Java SE Persistencia de Datos
+# Curso de Java SE Persistencia de Datos
 
 Apuntes y código del [Clases del Curso de Java SE Persistencia de Datos](https://platzi.com/clases/java-persistencia/)
 
